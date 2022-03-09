@@ -25,8 +25,6 @@ res.json({message: 'Oi express!'})
 
 })
 
-//senhaBanco 9DXJmtmqt71e6A1t
-// mongodb+srv://Thiago:9DXJmtmqt71e6A1t@apicluster.h8dqy.mongodb.net/bancodaapi?retryWrites=true&w=majority
 
 //entregar uma porta
 const DB_USER=process.env.DB_USER
